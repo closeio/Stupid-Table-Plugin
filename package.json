@@ -1,0 +1,15 @@
+{
+  "name": "stupidtable",
+  "version": "1.0.0",
+  "description": "Stupid jQuery Table Sort ========================",
+  "main": "stupidtable.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
